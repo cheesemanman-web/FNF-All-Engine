@@ -120,6 +120,7 @@
 	<haxelib name="haxeui-core" />
 	<haxelib name="haxeui-flixel" />
 	<haxelib name="away3d" if="THREE_D_SUPPORT" />
+	<haxelib name="foxlite" />
 	<haxelib name="format" />
 	<haxelib name="nape-haxe4" if="NAPE_ENABLED"/>
 	<haxelib name="hscript" />
